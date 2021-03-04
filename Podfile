@@ -14,7 +14,7 @@ target 'SLModularisation' do
 #  pod 'SLJGSDK', :path => 'Module/ModuleComm/SLJGSDK'
 #  pod 'ModuleResource', :path => 'Module/ModuleResource'
 
-  pod 'ModuleComm', :git => 'https://github.com/2NU71AN9/SLModularisation-ModuleComm.git', :commit => '8b34880003bac802d8c7f5fdc0b473d1dc62c922'
+  pod 'ModuleComm', :git => 'https://github.com/2NU71AN9/SLModularisation-ModuleComm.git', :commit => 'e1fd8314e65194fbf3fa4bd66a543e655f6f7214'
   pod 'ModuleGuide', :git => 'https://github.com/2NU71AN9/SLModularisation-ModuleGuide.git', :commit => '51e6d476618721ff95835b752116bb96f6c134e8'
   pod 'ModuleHome', :git => 'https://github.com/2NU71AN9/SLModularisation-ModuleHome.git', :commit => 'd4613a2ad1fa313ca244210bd17c6ebca7d5d0ef'
   pod 'ModuleSecond', :git => 'https://github.com/2NU71AN9/SLModularisation-ModuleSecond.git', :commit => '2bed0ad9fe8e3999f939bd5bf3e86837323992c1'
